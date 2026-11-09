@@ -1,0 +1,15 @@
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/bin/Debug/net10.0/BfsDfs
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/bin/Debug/net10.0/BfsDfs.deps.json
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/bin/Debug/net10.0/BfsDfs.runtimeconfig.json
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/bin/Debug/net10.0/BfsDfs.dll
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/bin/Debug/net10.0/BfsDfs.pdb
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.AssemblyInfoInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.AssemblyInfo.cs
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.csproj.CoreCompileInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.sourcelink.json
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.dll
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/refint/BfsDfs.dll
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.pdb
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/BfsDfs.genruntimeconfig.cache
+/Users/adianlarsen/Desktop/Data Structures/Homework-6-BFS-and-DFS/BfsDfs/obj/Debug/net10.0/ref/BfsDfs.dll
